@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PreEntrega2-Caparroz/static/css/main.615e72b6.css",
+    "main.js": "/PreEntrega2-Caparroz/static/js/main.31d09dd3.js",
+    "index.html": "/PreEntrega2-Caparroz/index.html",
+    "main.615e72b6.css.map": "/PreEntrega2-Caparroz/static/css/main.615e72b6.css.map",
+    "main.31d09dd3.js.map": "/PreEntrega2-Caparroz/static/js/main.31d09dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615e72b6.css",
+    "static/js/main.31d09dd3.js"
+  ]
+}
