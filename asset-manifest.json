@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PreEntrega2-Caparroz/static/css/main.615e72b6.css",
-    "main.js": "/PreEntrega2-Caparroz/static/js/main.c09da390.js",
+    "main.js": "/PreEntrega2-Caparroz/static/js/main.ed0e1b54.js",
     "index.html": "/PreEntrega2-Caparroz/index.html",
     "main.615e72b6.css.map": "/PreEntrega2-Caparroz/static/css/main.615e72b6.css.map",
-    "main.c09da390.js.map": "/PreEntrega2-Caparroz/static/js/main.c09da390.js.map"
+    "main.ed0e1b54.js.map": "/PreEntrega2-Caparroz/static/js/main.ed0e1b54.js.map"
   },
   "entrypoints": [
     "static/css/main.615e72b6.css",
-    "static/js/main.c09da390.js"
+    "static/js/main.ed0e1b54.js"
   ]
 }
